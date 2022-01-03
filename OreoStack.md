@@ -1,8 +1,8 @@
 # <img alt="oreostacklogo" src="img/oreostacklogo.png" width="60" /> OreoStack
 
-## Fiction
+## Fiction :dragon_face:
 
-- [The Tale of Tridania](TheTaleOfTridania/TheTaleOfTridania)
+- [The Tale of Tridania](Fiction/TheTaleOfTridania/TheTaleOfTridania)
 
 ## Selected Chords :musical_note:
 

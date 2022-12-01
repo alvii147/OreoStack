@@ -1,0 +1,102 @@
+[
+    {
+        "rank": 1,
+        "title": "Coast",
+        "artist": "Hailee Steinfeld & Anderson .Paak",
+        "album_cover": "https://images.genius.com/d839aa6c2f3c669c416bbd5371e03475.1000x1000x1.png",
+        "links": {
+            "youtube": "https://youtu.be/DwfPlzQ1x_g",
+            "spotify": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Never Forget",
+        "artist": "Sampa The Great ft. Chef 187, Tio Nason, Mwanjé",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738d92768a5161c702cb453e33",
+        "links": {
+            "youtube": "https://youtu.be/drydvdBCaHU",
+            "spotify": "https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "Queen",
+        "artist": "Mighteemike & SoulChef ft. Alessandra K.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273330dc6a4cceb579751675b39",
+        "links": {
+            "youtube": "https://youtu.be/C8V0KC4Lhm4",
+            "spotify": "https://open.spotify.com/track/3JYeHMyoFPwCztn5PBIm01"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Bounce",
+        "artist": "Emotional Oranges",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734fe629d4f8b6a6cdf07455ef",
+        "links": {
+            "youtube": "https://youtu.be/4oy9VRq7NvQ",
+            "spotify": "https://open.spotify.com/track/0dc7vqP0w2kLg39jk2kVhU"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "I Like You",
+        "artist": "Post Malone & Doja Cat",
+        "album_cover": "https://i.scdn.co/image/ab67616d00001e0234362676667a4322838ccc97",
+        "links": {
+            "youtube": "https://youtu.be/7aekxC_monc",
+            "spotify": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "Out of Time",
+        "artist": "The Weeknd",
+        "album_cover": "https://media.pitchfork.com/photos/61d5fa911b710fb5ce48ed9f/1:1/w_600/The-Weeknd-Dawn-FM.jpg",
+        "links": {
+            "youtube": "https://youtu.be/2fDzCWNS3ig",
+            "spotify": "https://open.spotify.com/track/6zSYhlhOl8LvuJwZjJRfij"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "Oh Really?",
+        "artist": "Lou Phelps ft. Guapdad 4000 & Joyce Wrice",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273d005bab8023c113417dba0f3",
+        "links": {
+            "youtube": "https://youtu.be/XEF2ZV8GNeM",
+            "spotify": "https://open.spotify.com/track/0ZO6pL1cZgaOSIGQZi1OxW"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "Naturally",
+        "artist": "Tinashe",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738036d7a4166325ad0d116d12",
+        "links": {
+            "youtube": "https://youtu.be/KI-IiIt-xpg",
+            "spotify": "https://open.spotify.com/track/3pIGVPZfTE7GCzT07XDcY6"
+        }
+    },
+    {
+        "rank": 9,
+        "title": "Stay With Me",
+        "artist": "Calvin Harris ft. Justin Timberlake, Halsey & Pharrell",
+        "album_cover": "https://media.pitchfork.com/photos/62ed2bf69e909489fa5fafee/1:1/w_600/Calvin%20Harris%20-%20Funk%20Wav%20Bounces%20Vol.%202.jpeg",
+        "links": {
+            "youtube": "https://youtu.be/eMQuofsOOzo",
+            "spotify": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
+        }
+    },
+    {
+        "rank": 10,
+        "title": "Getcho Mans",
+        "artist": "Rich Brian & Warren Hue",
+        "album_cover": "https://media.pitchfork.com/photos/61f0508973b31e38e0eb1640/1:1/w_600/richbrian.jpeg",
+        "links": {
+            "youtube": "https://youtu.be/a1YCn6T7c8U",
+            "spotify": "https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj"
+        }
+    }
+]

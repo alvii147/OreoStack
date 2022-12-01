@@ -6,7 +6,7 @@
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2730f8718305d5f88697e609b48",
         "links": {
             "youtube": "https://youtu.be/UkzNJ88hmIE",
-            "spotify": "https://open.spotify.com/track/1nTvyaoTiHhsAiEMaWk2Ik?si=bfad4e1c88c14d0e"
+            "spotify": "https://open.spotify.com/track/1nTvyaoTiHhsAiEMaWk2Ik"
         }
     },
     {
@@ -16,7 +16,7 @@
         "album_cover": "https://upload.wikimedia.org/wikipedia/en/7/7c/SZA_-_Good_Days.png",
         "links": {
             "youtube": "https://youtu.be/2p3zZoraK9g",
-            "spotify": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A?si=c565866b8d514b21"
+            "spotify": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
         }
     },
     {
@@ -26,7 +26,7 @@
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27389c120e41ac7ccdea35ddcd9",
         "links": {
             "youtube": "https://youtu.be/nNPzRXdsH7k",
-            "spotify": "https://open.spotify.com/track/2XW3vH6ZqMHvlzUSfhWW2X?si=3a35c7f205b84777"
+            "spotify": "https://open.spotify.com/track/2XW3vH6ZqMHvlzUSfhWW2X"
         }
     },
     {
@@ -36,7 +36,7 @@
         "album_cover": "https://t2.genius.com/unsafe/362x362/https%3A%2F%2Fimages.genius.com%2Ff06ff920be0723c3b80b087a17a0a56a.1000x1000x1.png",
         "links": {
             "youtube": "https://youtu.be/82UsnbunJUs",
-            "spotify": "https://open.spotify.com/track/17hEgChAl6FQ73xelHkKNt?si=cf119d03544d45d5"
+            "spotify": "https://open.spotify.com/track/17hEgChAl6FQ73xelHkKNt"
         }
     },
     {
@@ -46,7 +46,7 @@
         "album_cover": "https://images.genius.com/cd1e1c8045f9ff5deacbd4aa70fe2d8e.1000x1000x1.png",
         "links": {
             "youtube": "https://youtu.be/6bE9Fv-2PnQ",
-            "spotify": "https://open.spotify.com/track/7FW4HUo39yRwGVxEoHqTa4?si=b6803cfe3e0b4b42"
+            "spotify": "https://open.spotify.com/track/7FW4HUo39yRwGVxEoHqTa4"
         }
     },
     {
@@ -56,7 +56,7 @@
         "album_cover": "https://images.genius.com/9341e0fdb5fa34d176849b5eadf31b42.1000x1000x1.jpg",
         "links": {
             "youtube": "https://youtu.be/yeWgzD7bg_U",
-            "spotify": "https://open.spotify.com/track/11xILcyUmIjr2XpM6mpEvA?si=66c9b55576e54fec"
+            "spotify": "https://open.spotify.com/track/11xILcyUmIjr2XpM6mpEvA"
         }
     },
     {
@@ -66,37 +66,37 @@
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2731599b648bb173d94f6f904e1",
         "links": {
             "youtube": "https://youtu.be/qBG-tyMWNeo",
-            "spotify": "https://open.spotify.com/track/2M9j38t0cz0lGTtLqxRT3r?si=4437cb1b6c92434f"
+            "spotify": "https://open.spotify.com/track/2M9j38t0cz0lGTtLqxRT3r"
         }
     },
     {
         "rank": 8,
-        "title": "man i is",
-        "artist": "Logic",
-        "album_cover": "https://dailynexus.s3-us-west-1.amazonaws.com/dailynexus/wp-content/uploads/2020/07/logic-no-pressure-album-review-header-2020.jpg",
-        "links": {
-            "youtube": "https://youtu.be/dANdTnL7GxE",
-            "spotify": "https://open.spotify.com/track/0ERnYArznxdTBEIj1VSta8?si=bb5f9fe5d311450b"
-        }
-    },
-    {
-        "rank": 9,
-        "title": "D.M.T.",
-        "artist": "STACEY",
-        "album_cover": "https://images.hungama.com/c/1/4d7/dd1/55110443/55110443_300x300.jpg",
-        "links": {
-            "youtube": "https://youtu.be/zXP8p2J5faw",
-            "spotify": "https://open.spotify.com/track/7kausMmJLNEieRLe2WLn84?si=95d19d94f6f248e2"
-        }
-    },
-    {
-        "rank": 10,
         "title": "Tyler Herro",
         "artist": "Jack Harlow",
         "album_cover": "https://upload.wikimedia.org/wikipedia/en/4/45/Jack_Harlow_-_Tyler_Herro.png",
         "links": {
             "youtube": "https://youtu.be/np9Ub1LilKU",
-            "spotify": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB?si=d702b25bcec64b35"
+            "spotify": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
+        }
+    },
+    {
+        "rank": 9,
+        "title": "Hit My Line",
+        "artist": "Logic",
+        "album_cover": "https://dailynexus.s3-us-west-1.amazonaws.com/dailynexus/wp-content/uploads/2020/07/logic-no-pressure-album-review-header-2020.jpg",
+        "links": {
+            "youtube": "https://youtu.be/3CyWixndEYE",
+            "spotify": "https://open.spotify.com/track/24FR8mXTaiGZPrxnkf1kcP"
+        }
+    },
+    {
+        "rank": 10,
+        "title": "D.M.T.",
+        "artist": "STACEY",
+        "album_cover": "https://images.hungama.com/c/1/4d7/dd1/55110443/55110443_300x300.jpg",
+        "links": {
+            "youtube": "https://youtu.be/zXP8p2J5faw",
+            "spotify": "https://open.spotify.com/track/7kausMmJLNEieRLe2WLn84"
         }
     }
 ]

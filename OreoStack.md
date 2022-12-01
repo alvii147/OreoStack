@@ -9,3 +9,4 @@
 - [Selected Chords 2019](SelectedChords/SelectedChords2019/SelectedChords)
 - [Selected Chords 2020](SelectedChords/SelectedChords2020/SelectedChords)
 - [Selected Chords 2021](SelectedChords/SelectedChords2021/SelectedChords)
+- [Selected Chords 2022](SelectedChords/SelectedChords2022/SelectedChords)

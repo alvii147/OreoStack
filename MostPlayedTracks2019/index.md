@@ -1,6 +1,6 @@
-# <img src="../../img/oreostacklogo.png" width="60" />Selected Chords 2019
+# <img src="../img/oreostacklogo.png" width="60" /> My Most Played Tracks 2019 
 
-## :one: Made for Me
+## 1. Made for Me
 
 **Nile Waters ft. Campana & Parisalexa**
 
@@ -10,7 +10,7 @@
 
 ---
 
-## :two: West Coast Love
+## 2. West Coast Love
 
 **Emotional Oranges**
 
@@ -21,7 +21,7 @@
 
 ---
 
-## :three: PATTERNS
+## 3. PATTERNS
 
 **NASAYA ft. Sara Diamond**
 
@@ -32,7 +32,7 @@
 
 ---
 
-## :four: Don't Be Lazy
+## 4. Don't Be Lazy
 
 **Emotional Oranges**
 
@@ -43,7 +43,7 @@
 
 ---
 
-## :five: Better To Leave It
+## 5. Better To Leave It
 
 **snny**
 
@@ -53,7 +53,7 @@
 
 ---
 
-## :six: Kids
+## 6. Kids
 
 **Rich Brian**
 
@@ -64,7 +64,7 @@
 
 ---
 
-## :seven: Isis
+## 7. Isis
 
 **Joyner Lucas ft. Logic**
 
@@ -75,7 +75,7 @@
 
 ---
 
-## :eight: Dreaming Fool
+## 8. Dreaming Fool
 
 **JGrrey**
 
@@ -86,7 +86,7 @@
 
 ---
 
-## :nine: GRoCERIES
+## 9. GRoCERIES
 
 **Chance The Rapper ft. TisaKorean & Murda Beatz**
 
@@ -97,7 +97,7 @@
 
 ---
 
-## :keycap_ten: Moonwalk
+## 10. Moonwalk
 
 **Rexx Life Raj & Kenny Beats**
 
@@ -105,3 +105,25 @@
 
 [![](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube)](https://youtu.be/I7-47-xgf0w)
 [![](https://img.shields.io/badge/Spotify-000000?style=flat&logo=spotify)](https://open.spotify.com/track/382qrGyccNifmqSuNgnFEk)
+
+---
+
+## 11. Drive Safe
+
+**Rich Brian**
+
+<img src="https://media.pitchfork.com/photos/5d3b3b0e2d5df30009bba91e/1:1/w_600/RichBrian_TheSailor.jpg" width="400" />
+
+[![](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube)](https://youtu.be/7bFFaTGOVI8)
+[![](https://img.shields.io/badge/Spotify-000000?style=flat&logo=spotify)](https://open.spotify.com/track/6eDfe957aV4sqGnDhlSikJ)
+
+---
+
+## 12. I Love You 3000
+
+**Stephanie Poetri**
+
+<img src="https://upload.wikimedia.org/wikipedia/en/8/8b/I_love_you_3000_cover.png" width="400" />
+
+[![](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube)](https://youtu.be/cPkE0IbDVs4)
+[![](https://img.shields.io/badge/Spotify-000000?style=flat&logo=spotify)](https://open.spotify.com/track/3znQ9i61vfe2E7URHlOiyc)

@@ -1,6 +1,5 @@
 [
     {
-        "rank": 1,
         "title": "DOA",
         "artist": "Rich Brian",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2730f8718305d5f88697e609b48",
@@ -10,7 +9,6 @@
         }
     },
     {
-        "rank": 2,
         "title": "Good Days",
         "artist": "SZA",
         "album_cover": "https://upload.wikimedia.org/wikipedia/en/7/7c/SZA_-_Good_Days.png",
@@ -20,7 +18,6 @@
         }
     },
     {
-        "rank": 3,
         "title": "BALI",
         "artist": "Rich Brian",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27389c120e41ac7ccdea35ddcd9",
@@ -30,17 +27,6 @@
         }
     },
     {
-        "rank": 4,
-        "title": "Cabin Fever",
-        "artist": "Jaden",
-        "album_cover": "https://t2.genius.com/unsafe/362x362/https%3A%2F%2Fimages.genius.com%2Ff06ff920be0723c3b80b087a17a0a56a.1000x1000x1.png",
-        "links": {
-            "youtube": "https://youtu.be/82UsnbunJUs",
-            "spotify": "https://open.spotify.com/track/17hEgChAl6FQ73xelHkKNt"
-        }
-    },
-    {
-        "rank": 5,
         "title": "No Explanation",
         "artist": "Joey Bada$$ ft. Pusha T",
         "album_cover": "https://images.genius.com/cd1e1c8045f9ff5deacbd4aa70fe2d8e.1000x1000x1.png",
@@ -50,7 +36,15 @@
         }
     },
     {
-        "rank": 6,
+        "title": "Cabin Fever",
+        "artist": "Jaden",
+        "album_cover": "https://t2.genius.com/unsafe/362x362/https%3A%2F%2Fimages.genius.com%2Ff06ff920be0723c3b80b087a17a0a56a.1000x1000x1.png",
+        "links": {
+            "youtube": "https://youtu.be/82UsnbunJUs",
+            "spotify": "https://open.spotify.com/track/17hEgChAl6FQ73xelHkKNt"
+        }
+    },
+    {
         "title": "Play Too Much",
         "artist": "Kyle Dion ft. UMI & DUCKWRTH",
         "album_cover": "https://images.genius.com/9341e0fdb5fa34d176849b5eadf31b42.1000x1000x1.jpg",
@@ -60,7 +54,6 @@
         }
     },
     {
-        "rank": 7,
         "title": "Love In My Pocket",
         "artist": "Rich Brian",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2731599b648bb173d94f6f904e1",
@@ -70,7 +63,6 @@
         }
     },
     {
-        "rank": 8,
         "title": "Tyler Herro",
         "artist": "Jack Harlow",
         "album_cover": "https://upload.wikimedia.org/wikipedia/en/4/45/Jack_Harlow_-_Tyler_Herro.png",
@@ -80,7 +72,6 @@
         }
     },
     {
-        "rank": 9,
         "title": "Hit My Line",
         "artist": "Logic",
         "album_cover": "https://dailynexus.s3-us-west-1.amazonaws.com/dailynexus/wp-content/uploads/2020/07/logic-no-pressure-album-review-header-2020.jpg",
@@ -90,13 +81,57 @@
         }
     },
     {
-        "rank": 10,
+        "title": "Cherries",
+        "artist": "Hope Tala ft. Aminé",
+        "album_cover": "https://i1.sndcdn.com/artworks-7ytmf9AVjoxs-0-t500x500.jpg",
+        "links": {
+            "youtube": "https://youtu.be/2fHph8nT4yM",
+            "spotify": "https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU"
+        }
+    },
+    {
         "title": "D.M.T.",
         "artist": "STACEY",
         "album_cover": "https://images.hungama.com/c/1/4d7/dd1/55110443/55110443_300x300.jpg",
         "links": {
             "youtube": "https://youtu.be/zXP8p2J5faw",
             "spotify": "https://open.spotify.com/track/7kausMmJLNEieRLe2WLn84"
+        }
+    },
+    {
+        "title": "man i is",
+        "artist": "Logic",
+        "album_cover": "https://dailynexus.s3-us-west-1.amazonaws.com/dailynexus/wp-content/uploads/2020/07/logic-no-pressure-album-review-header-2020.jpg",
+        "links": {
+            "youtube": "https://youtu.be/dANdTnL7GxE",
+            "spotify": "https://open.spotify.com/track/0ERnYArznxdTBEIj1VSta8"
+        }
+    },
+    {
+        "title": "Outside",
+        "artist": "WESTSIDE BOOGIE & Joey Bada$$",
+        "album_cover": "https://images.genius.com/97ffe42f490c9115e6d2deac3b14be2d.1000x1000x1.jpg",
+        "links": {
+            "youtube": "https://youtu.be/a15OJqFx4n8",
+            "spotify": "https://open.spotify.com/track/1es7SpekMUeMAIlG4iEJKX"
+        }
+    },
+    {
+        "title": "BET Uncut",
+        "artist": "MadeinTYO ft. Chance the Rapper & Smino",
+        "album_cover": "https://images.genius.com/5124491d6e7bce4dca685bf831707807.1000x1000x1.png",
+        "links": {
+            "youtube": "https://youtu.be/WxsWU2_btic",
+            "spotify": "https://open.spotify.com/track/4kB0QIOyAS9s9raFHaPo2f"
+        }
+    },
+    {
+        "title": "Personal Brand",
+        "artist": "Paul Russell ft. Foggieraw",
+        "album_cover": "https://cdn.musicbed.com/image/upload/c_fill,dpr_auto,f_auto,g_auto,q_auto:best,h_400,w_400/v1582229714/production/albums/5690",
+        "links": {
+            "youtube": "https://youtu.be/FfJ_meewj_Y",
+            "spotify": "https://open.spotify.com/track/1TctuQwJisQpINyUT4vKI4"
         }
     }
 ]

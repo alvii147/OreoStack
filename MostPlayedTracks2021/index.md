@@ -1,6 +1,6 @@
-# <img src="../../img/oreostacklogo.png" width="60" />Selected Chords 2021
+# <img src="../img/oreostacklogo.png" width="60" /> My Most Played Tracks 2021 
 
-## :one: Down To Miami
+## 1. Down To Miami
 
 **Emotional Oranges ft. Becky G**
 
@@ -11,7 +11,7 @@
 
 ---
 
-## :two: California
+## 2. California
 
 **Rich Brian, NIKI & Warren Hue**
 
@@ -22,7 +22,7 @@
 
 ---
 
-## :three: Strange (But I Like It)
+## 3. Strange (But I Like It)
 
 **STACEY**
 
@@ -33,7 +33,7 @@
 
 ---
 
-## :four: Pasadena
+## 4. Pasadena
 
 **Tinashe ft. Buddy**
 
@@ -44,7 +44,7 @@
 
 ---
 
-## :five: Every Summertime
+## 5. Every Summertime
 
 **NIKI**
 
@@ -55,7 +55,29 @@
 
 ---
 
-## :six: All That
+## 6. Softly
+
+**Amber Mark**
+
+<img src="https://i1.sndcdn.com/artworks-wfIZef8pedj7-0-t500x500.jpg" width="400" />
+
+[![](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube)](https://youtu.be/1stAYxwLFHA)
+[![](https://img.shields.io/badge/Spotify-000000?style=flat&logo=spotify)](https://open.spotify.com/track/36Cs04fKrfupan7JZPBCYS)
+
+---
+
+## 7. What It Is
+
+**Amber Mark**
+
+<img src="https://static.stereogum.com/uploads/2021/09/unnamed-1632498506.jpg" width="400" />
+
+[![](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube)](https://youtu.be/hXaPGlkd5do)
+[![](https://img.shields.io/badge/Spotify-000000?style=flat&logo=spotify)](https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q)
+
+---
+
+## 8. All That
 
 **Emotional Oranges ft. Channel Tres**
 
@@ -66,7 +88,7 @@
 
 ---
 
-## :seven: Run It
+## 9. Run It
 
 **DJ Snake ft. Rick Ross & Rich Brian**
 
@@ -77,7 +99,7 @@
 
 ---
 
-## :eight: Warriors
+## 10. Warriors
 
 **Warren Hue & Seori**
 
@@ -88,7 +110,7 @@
 
 ---
 
-## :nine: Breathe
+## 11. Breathe
 
 **Apollo Brown & Stalley**
 
@@ -98,7 +120,18 @@
 
 ---
 
-## :keycap_ten: Love's Train
+## 12. Coastin'
+
+**Victoria Monét**
+
+<img src="https://i1.sndcdn.com/artworks-x0ujaII7669c-0-t500x500.png" width="400" />
+
+[![](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube)](https://youtu.be/jsIEjAGzHB8)
+[![](https://img.shields.io/badge/Spotify-000000?style=flat&logo=spotify)](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7)
+
+---
+
+## 13. Love's Train
 
 **Bruno Mars & Anderson .Paak (Silk Sonic)**
 
@@ -106,3 +139,47 @@
 
 [![](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube)](https://youtu.be/AA3E0sB46SQ)
 [![](https://img.shields.io/badge/Spotify-000000?style=flat&logo=spotify)](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ)
+
+---
+
+## 14. Believe What I Say
+
+**Kanye West**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Almost_black_square_020305.png" width="400" />
+
+[![](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube)](https://youtu.be/Qp-O4eIUgf0)
+[![](https://img.shields.io/badge/Spotify-000000?style=flat&logo=spotify)](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV)
+
+---
+
+## 15. Bobby Bonilla
+
+**Apollo Brown & Stalley ft. Ortiz**
+
+<img src="https://i.scdn.co/image/ab67616d0000b27386ad4981c6077da7a734f2e0" width="400" />
+
+[![](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube)](https://youtu.be/fbomviEv77Y)
+[![](https://img.shields.io/badge/Spotify-000000?style=flat&logo=spotify)](https://open.spotify.com/track/5Juj9NBKjMmD3KKJME7ej1)
+
+---
+
+## 16. Good Feeling
+
+**STACEY**
+
+<img src="https://i1.sndcdn.com/artworks-0xaJVY6sBR4zLEnR-Ll3HLw-t500x500.jpg" width="400" />
+
+[![](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube)](https://youtu.be/HP00gUSt230)
+[![](https://img.shields.io/badge/Spotify-000000?style=flat&logo=spotify)](https://open.spotify.com/track/3oXHrzhnPBng3xW4LRBieS)
+
+---
+
+## 17. Top Again
+
+**AUDREY NUNA ft. Saba**
+
+<img src="https://images.genius.com/dc833111da0c37f8157781d77b1b81c9.999x999x1.png" width="400" />
+
+[![](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube)](https://youtu.be/8E_cAR1DpsY)
+[![](https://img.shields.io/badge/Spotify-000000?style=flat&logo=spotify)](https://open.spotify.com/track/0k2HFzw2iQENrU2oWtVJEb)

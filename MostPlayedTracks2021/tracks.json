@@ -1,6 +1,5 @@
 [
     {
-        "rank": 1,
         "title": "Down To Miami",
         "artist": "Emotional Oranges ft. Becky G",
         "album_cover": "https://images.genius.com/60d018c02c278a3f2fc75f47af40da20.1000x1000x1.jpg",
@@ -10,7 +9,6 @@
         }
     },
     {
-        "rank": 2,
         "title": "California",
         "artist": "Rich Brian, NIKI & Warren Hue",
         "album_cover": "https://m.media-amazon.com/images/I/A1x5IxU7ZoS._SS500_.jpg",
@@ -20,7 +18,6 @@
         }
     },
     {
-        "rank": 3,
         "title": "Strange (But I Like It)",
         "artist": "STACEY",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273f90ae003b2901b895f5df322",
@@ -30,7 +27,6 @@
         }
     },
     {
-        "rank": 4,
         "title": "Pasadena",
         "artist": "Tinashe ft. Buddy",
         "album_cover": "https://images.genius.com/3a099fc2b367c7039cc487e0595af60c.1000x1000x1.png",
@@ -40,7 +36,6 @@
         }
     },
     {
-        "rank": 5,
         "title": "Every Summertime",
         "artist": "NIKI",
         "album_cover": "https://m.media-amazon.com/images/I/61uEcLobk5L._SS500_.jpg",
@@ -50,7 +45,24 @@
         }
     },
     {
-        "rank": 6,
+        "title": "Softly",
+        "artist": "Amber Mark",
+        "album_cover": "https://i1.sndcdn.com/artworks-wfIZef8pedj7-0-t500x500.jpg",
+        "links": {
+            "youtube": "https://youtu.be/1stAYxwLFHA",
+            "spotify": "https://open.spotify.com/track/36Cs04fKrfupan7JZPBCYS"
+        }
+    },
+    {
+        "title": "What It Is",
+        "artist": "Amber Mark",
+        "album_cover": "https://static.stereogum.com/uploads/2021/09/unnamed-1632498506.jpg",
+        "links": {
+            "youtube": "https://youtu.be/hXaPGlkd5do",
+            "spotify": "https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q"
+        }
+    },
+    {
         "title": "All That",
         "artist": "Emotional Oranges ft. Channel Tres",
         "album_cover": "https://images.genius.com/60d018c02c278a3f2fc75f47af40da20.1000x1000x1.jpg",
@@ -60,7 +72,6 @@
         }
     },
     {
-        "rank": 7,
         "title": "Run It",
         "artist": "DJ Snake ft. Rick Ross & Rich Brian",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273077d7f12206ef646ad10ceac",
@@ -70,7 +81,6 @@
         }
     },
     {
-        "rank": 8,
         "title": "Warriors",
         "artist": "Warren Hue & Seori",
         "album_cover": "https://images.genius.com/abc63ff513618b4e310063c31e1d43d3.553x553x1.jpg",
@@ -80,7 +90,6 @@
         }
     },
     {
-        "rank": 9,
         "title": "Breathe",
         "artist": "Apollo Brown & Stalley",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27386ad4981c6077da7a734f2e0",
@@ -89,13 +98,57 @@
         }
     },
     {
-        "rank": 10,
+        "title": "Coastin'",
+        "artist": "Victoria Monét",
+        "album_cover": "https://i1.sndcdn.com/artworks-x0ujaII7669c-0-t500x500.png",
+        "links": {
+            "youtube": "https://youtu.be/jsIEjAGzHB8",
+            "spotify": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+        }
+    },
+    {
         "title": "Love's Train",
         "artist": "Bruno Mars & Anderson .Paak (Silk Sonic)",
         "album_cover": "https://upload.wikimedia.org/wikipedia/en/8/8e/Silk_Sonic_-_An_Evening_with_Silk_Sonic.png",
         "links": {
             "youtube": "https://youtu.be/AA3E0sB46SQ",
             "spotify": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
+        }
+    },
+    {
+        "title": "Believe What I Say",
+        "artist": "Kanye West",
+        "album_cover": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Almost_black_square_020305.png",
+        "links": {
+            "youtube": "https://youtu.be/Qp-O4eIUgf0",
+            "spotify": "https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV"
+        }
+    },
+    {
+        "title": "Bobby Bonilla",
+        "artist": "Apollo Brown & Stalley ft. Ortiz",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27386ad4981c6077da7a734f2e0",
+        "links": {
+            "youtube": "https://youtu.be/fbomviEv77Y",
+            "spotify": "https://open.spotify.com/track/5Juj9NBKjMmD3KKJME7ej1"
+        }
+    },
+    {
+        "title": "Good Feeling",
+        "artist": "STACEY",
+        "album_cover": "https://i1.sndcdn.com/artworks-0xaJVY6sBR4zLEnR-Ll3HLw-t500x500.jpg",
+        "links": {
+            "youtube": "https://youtu.be/HP00gUSt230",
+            "spotify": "https://open.spotify.com/track/3oXHrzhnPBng3xW4LRBieS"
+        }
+    },
+    {
+        "title": "Top Again",
+        "artist": "AUDREY NUNA ft. Saba",
+        "album_cover": "https://images.genius.com/dc833111da0c37f8157781d77b1b81c9.999x999x1.png",
+        "links": {
+            "youtube": "https://youtu.be/8E_cAR1DpsY",
+            "spotify": "https://open.spotify.com/track/0k2HFzw2iQENrU2oWtVJEb"
         }
     }
 ]

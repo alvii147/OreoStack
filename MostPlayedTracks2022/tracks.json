@@ -1,6 +1,5 @@
 [
     {
-        "rank": 1,
         "title": "Coast",
         "artist": "Hailee Steinfeld & Anderson .Paak",
         "album_cover": "https://images.genius.com/d839aa6c2f3c669c416bbd5371e03475.1000x1000x1.png",
@@ -10,7 +9,6 @@
         }
     },
     {
-        "rank": 2,
         "title": "Never Forget",
         "artist": "Sampa The Great ft. Chef 187, Tio Nason, Mwanjé",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2738d92768a5161c702cb453e33",
@@ -20,7 +18,6 @@
         }
     },
     {
-        "rank": 3,
         "title": "Queen",
         "artist": "Mighteemike & SoulChef ft. Alessandra K.",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273330dc6a4cceb579751675b39",
@@ -87,16 +84,6 @@
         "links": {
             "youtube": "https://youtu.be/eMQuofsOOzo",
             "spotify": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
-        }
-    },
-    {
-        "rank": 10,
-        "title": "Getcho Mans",
-        "artist": "Rich Brian & Warren Hue",
-        "album_cover": "https://media.pitchfork.com/photos/61f0508973b31e38e0eb1640/1:1/w_600/richbrian.jpeg",
-        "links": {
-            "youtube": "https://youtu.be/a1YCn6T7c8U",
-            "spotify": "https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj"
         }
     }
 ]

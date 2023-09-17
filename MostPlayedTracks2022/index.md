@@ -1,6 +1,6 @@
-# <img src="../../img/oreostacklogo.png" width="60" />Selected Chords 2022
+# <img src="../img/oreostacklogo.png" width="60" /> My Most Played Tracks 2021 
 
-## :one: Coast
+## 1. Coast
 
 **Hailee Steinfeld & Anderson .Paak**
 
@@ -11,7 +11,7 @@
 
 ---
 
-## :two: Never Forget
+## 2. Never Forget
 
 **Sampa The Great ft. Chef 187, Tio Nason, Mwanjé**
 
@@ -22,7 +22,7 @@
 
 ---
 
-## :three: Queen
+## 3. Queen
 
 **Mighteemike & SoulChef ft. Alessandra K.**
 
@@ -33,7 +33,7 @@
 
 ---
 
-## :four: Bounce
+## 4. Bounce
 
 **Emotional Oranges**
 
@@ -44,7 +44,7 @@
 
 ---
 
-## :five: I Like You
+## 5. I Like You
 
 **Post Malone & Doja Cat**
 
@@ -55,7 +55,7 @@
 
 ---
 
-## :six: Out of Time
+## 6. Out of Time
 
 **The Weeknd**
 
@@ -66,7 +66,7 @@
 
 ---
 
-## :seven: Oh Really?
+## 7. Oh Really?
 
 **Lou Phelps ft. Guapdad 4000 & Joyce Wrice**
 
@@ -77,7 +77,7 @@
 
 ---
 
-## :eight: Naturally
+## 8. Naturally
 
 **Tinashe**
 
@@ -88,7 +88,7 @@
 
 ---
 
-## :nine: Stay With Me
+## 9. Stay With Me
 
 **Calvin Harris ft. Justin Timberlake, Halsey & Pharrell**
 
@@ -96,14 +96,3 @@
 
 [![](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube)](https://youtu.be/eMQuofsOOzo)
 [![](https://img.shields.io/badge/Spotify-000000?style=flat&logo=spotify)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf)
-
----
-
-## :keycap_ten: Getcho Mans
-
-**Rich Brian & Warren Hue**
-
-<img src="https://media.pitchfork.com/photos/61f0508973b31e38e0eb1640/1:1/w_600/richbrian.jpeg" width="400" />
-
-[![](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube)](https://youtu.be/a1YCn6T7c8U)
-[![](https://img.shields.io/badge/Spotify-000000?style=flat&logo=spotify)](https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj)

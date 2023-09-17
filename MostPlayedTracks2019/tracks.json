@@ -1,6 +1,5 @@
 [
     {
-        "rank": 1,
         "title": "Made for Me",
         "artist": "Nile Waters ft. Campana & Parisalexa",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2737679e7462614a99c5db620fe",
@@ -9,7 +8,6 @@
         }
     },
     {
-        "rank": 2,
         "title": "West Coast Love",
         "artist": "Emotional Oranges",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273dcb7411f4486a7be6882cbaf",
@@ -19,7 +17,6 @@
         }
     },
     {
-        "rank": 3,
         "title": "PATTERNS",
         "artist": "NASAYA ft. Sara Diamond",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2730323b397beade00867cd97ae",
@@ -29,7 +26,6 @@
         }
     },
     {
-        "rank": 4,
         "title": "Don't Be Lazy",
         "artist": "Emotional Oranges",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273dcb7411f4486a7be6882cbaf",
@@ -39,7 +35,6 @@
         }
     },
     {
-        "rank": 5,
         "title": "Better To Leave It",
         "artist": "snny",
         "album_cover": "https://images.genius.com/78bbb9dbabcc038855ae0a9b54060cc5.1000x1000x1.jpg",
@@ -48,7 +43,6 @@
         }
     },
     {
-        "rank": 6,
         "title": "Kids",
         "artist": "Rich Brian",
         "album_cover": "https://media.pitchfork.com/photos/5d3b3b0e2d5df30009bba91e/1:1/w_600/RichBrian_TheSailor.jpg",
@@ -58,7 +52,6 @@
         }
     },
     {
-        "rank": 7,
         "title": "Isis",
         "artist": "Joyner Lucas ft. Logic",
         "album_cover": "https://images.genius.com/d0eb2b80d212b93b097d604c4c6af62e.680x680x1.jpg",
@@ -68,7 +61,6 @@
         }
     },
     {
-        "rank": 8,
         "title": "Dreaming Fool",
         "artist": "JGrrey",
         "album_cover": "https://images.genius.com/587bac9a1673a14c2fd00318a5707090.1000x1000x1.jpg",
@@ -78,7 +70,6 @@
         }
     },
     {
-        "rank": 9,
         "title": "GRoCERIES",
         "artist": "Chance The Rapper ft. TisaKorean & Murda Beatz",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2738bd67126e96c5c7336e9cc89",
@@ -88,13 +79,30 @@
         }
     },
     {
-        "rank": 10,
         "title": "Moonwalk",
         "artist": "Rexx Life Raj & Kenny Beats",
         "album_cover": "https://images.genius.com/4bfd6524a34e60a1dbc2da19b663d418.1000x1000x1.jpg",
         "links": {
             "youtube": "https://youtu.be/I7-47-xgf0w",
             "spotify": "https://open.spotify.com/track/382qrGyccNifmqSuNgnFEk"
+        }
+    },
+    {
+        "title": "Drive Safe",
+        "artist": "Rich Brian",
+        "album_cover": "https://media.pitchfork.com/photos/5d3b3b0e2d5df30009bba91e/1:1/w_600/RichBrian_TheSailor.jpg",
+        "links": {
+            "youtube": "https://youtu.be/7bFFaTGOVI8",
+            "spotify": "https://open.spotify.com/track/6eDfe957aV4sqGnDhlSikJ"
+        }
+    },
+    {
+        "title": "I Love You 3000",
+        "artist": "Stephanie Poetri",
+        "album_cover": "https://upload.wikimedia.org/wikipedia/en/8/8b/I_love_you_3000_cover.png",
+        "links": {
+            "youtube": "https://youtu.be/cPkE0IbDVs4",
+            "spotify": "https://open.spotify.com/track/3znQ9i61vfe2E7URHlOiyc"
         }
     }
 ]
